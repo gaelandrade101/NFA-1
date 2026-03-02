@@ -18,6 +18,6 @@ Problems 21 and 24 gave me the most trouble as I struggled with processing two d
 
 I wasn't really surprised by any "gold-str-ting"s as all my test cases returned the results which I had anticipated.
 
-## Other insights/comments/questions that you want the grader/instructor to know.
+### Other insights/comments/questions that you want the grader/instructor to know.
 
 N/A.
